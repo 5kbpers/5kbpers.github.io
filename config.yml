@@ -40,7 +40,7 @@ params:
 
   profileMode:
     enabled: true # needs to be explicitly set
-    title: 5kbpers
+    title: Derek Tang (5kbpers)
     subtitle: "Enthusiast of [Database, Web3, Rust]"
     imageUrl: "avatar.jpeg"
     imageWidth: 120
@@ -51,14 +51,16 @@ params:
         url: posts
       - name: Tags
         url: tags
+      - name: About me
+        url: about
 
   socialIcons:
-    - name: "Twitter"
+    - name: "twitter"
       url: "https://twitter.com/5kbpers1"
-    - name: "Github"
+    - name: "github"
       url: "https://github.com/5kbpers"
     - name: "linkedin"
       url: "https://www.linkedin.com/in/minghua-tang-60b247181/"
-    - name: "Email"
+    - name: "email"
       url: "mailto://hustmh@gmail.com"
 
