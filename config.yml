@@ -36,7 +36,7 @@ params:
   tocopen: false
 
   label:
-    text: "5kB⇅"
+    text: "5kB⇅(Draft)"
 
   profileMode:
     enabled: true # needs to be explicitly set
